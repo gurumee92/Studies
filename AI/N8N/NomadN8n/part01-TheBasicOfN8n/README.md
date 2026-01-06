@@ -99,5 +99,3 @@
 ```posh
 > Invoke-WebRequest -Uri https://icanhazdadjoke.com/ -Header @{'Accept'= 'application/json'
 ```
-
-## Conclusions
