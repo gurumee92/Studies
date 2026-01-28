@@ -1,7 +1,7 @@
 import tiktoken
 
 def main():
-    print("Hello from nomadlangchain!")
+    print(tiktoken)
 
 
 if __name__ == "__main__":
