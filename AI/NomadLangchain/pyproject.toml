@@ -3,7 +3,7 @@ name = "nomadlangchain"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.9, <3.12"
+requires-python = "==3.11.6"
 dependencies = [
     "aiofiles==23.2.1",
     "aiohttp==3.8.5",
@@ -130,7 +130,7 @@ dependencies = [
     "openpyxl==3.1.2",
     "orjson==3.9.9",
     "overrides==7.4.0",
-    "packaging==23.1",
+    "packaging>=23.2",
     "pandas==2.1.0",
     "parso==0.8.3",
     "pathspec==0.11.2",
